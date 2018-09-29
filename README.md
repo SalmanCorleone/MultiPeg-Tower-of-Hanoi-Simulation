@@ -7,3 +7,6 @@ Simply run the Hanoi.exe application.
 Detailed instructions are provided in this program.  
 _  
 (Pardon our undergrad humor. It was way too fun to make it though :D )
+<img src="Tower of Hanoi Resources/scene-classroom-design.jpg"><br>
+<img src="Tower of Hanoi Resources/harry_potter_chibi_by_puccanoodles2009-d332at7.png">
+<img src="Tower of Hanoi Resources/thumbnail-100x100.png">
